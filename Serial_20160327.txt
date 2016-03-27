@@ -1,0 +1,380 @@
+MJK - output from serial port. 27 March 2016
+
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 25056 C RAW
+Humidity: 25520 % RAW
+Light: 47.90 lx
+Battery: 66.00 %
+Solar Panel: 0 mV
+Carbon Monxide: 50.12 kOhm
+Nitrogen Dioxide: 74.70 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 09:50:44
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 24832 C RAW
+Humidity: 25964 % RAW
+Light: 44.00 lx
+Battery: 67.00 %
+Solar Panel: 0 mV
+Carbon Monxide: 51.02 kOhm
+Nitrogen Dioxide: 74.90 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 09:51:44
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 24788 C RAW
+Humidity: 26224 % RAW
+Light: 39.70 lx
+Battery: 68.20 %
+Solar Panel: 0 mV
+Carbon Monxide: 51.02 kOhm
+Nitrogen Dioxide: 74.68 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 09:52:45
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 24796 C RAW
+Humidity: 26292 % RAW
+Light: 36.90 lx
+Battery: 68.20 %
+Solar Panel: 0 mV
+Carbon Monxide: 50.78 kOhm
+Nitrogen Dioxide: 73.47 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 09:53:45
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 24812 C RAW
+Humidity: 25956 % RAW
+Light: 32.40 lx
+Battery: 68.50 %
+Solar Panel: 0 mV
+Carbon Monxide: 50.85 kOhm
+Nitrogen Dioxide: 73.70 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 09:54:45
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 24836 C RAW
+Humidity: 25944 % RAW
+Light: 29.40 lx
+Battery: 68.50 %
+Solar Panel: 0 mV
+Carbon Monxide: 50.65 kOhm
+Nitrogen Dioxide: 72.87 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 09:55:45
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 24872 C RAW
+Humidity: 26052 % RAW
+Light: 29.40 lx
+Battery: 68.90 %
+Solar Panel: 0 mV
+Carbon Monxide: 50.58 kOhm
+Nitrogen Dioxide: 71.60 kOhm
+Noise: 0 mV
+Wifi Spots: 2
+UTC: 2016-3-27 09:56:45
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 24904 C RAW
+Humidity: 26440 % RAW
+Light: 29.20 lx
+Battery: 69.40 %
+Solar Panel: 0 mV
+Carbon Monxide: 48.87 kOhm
+Nitrogen Dioxide: 70.02 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 09:57:45
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 24952 C RAW
+Humidity: 25996 % RAW
+Light: 32.90 lx
+Battery: 69.20 %
+Solar Panel: 0 mV
+Carbon Monxide: 48.91 kOhm
+Nitrogen Dioxide: 69.76 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 09:58:45
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 24956 C RAW
+Humidity: 25452 % RAW
+Light: 38.40 lx
+Battery: 69.70 %
+Solar Panel: 0 mV
+Carbon Monxide: 49.58 kOhm
+Nitrogen Dioxide: 70.05 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 09:59:46
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 24988 C RAW
+Humidity: 26244 % RAW
+Light: 43.90 lx
+Battery: 70.00 %
+Solar Panel: 0 mV
+Carbon Monxide: 48.46 kOhm
+Nitrogen Dioxide: 68.56 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 10:00:46
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 25008 C RAW
+Humidity: 25660 % RAW
+Light: 51.80 lx
+Battery: 70.10 %
+Solar Panel: 0 mV
+Carbon Monxide: 48.89 kOhm
+Nitrogen Dioxide: 68.19 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 10:01:46
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 25016 C RAW
+Humidity: 26092 % RAW
+Light: 55.00 lx
+Battery: 70.40 %
+Solar Panel: 0 mV
+Carbon Monxide: 48.25 kOhm
+Nitrogen Dioxide: 66.63 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 10:02:46
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 25052 C RAW
+Humidity: 26056 % RAW
+Light: 52.90 lx
+Battery: 70.80 %
+Solar Panel: 0 mV
+Carbon Monxide: 48.26 kOhm
+Nitrogen Dioxide: 64.78 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 10:03:46
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 25072 C RAW
+Humidity: 25500 % RAW
+Light: 49.90 lx
+Battery: 71.20 %
+Solar Panel: 0 mV
+Carbon Monxide: 48.70 kOhm
+Nitrogen Dioxide: 65.37 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 10:04:46
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 25100 C RAW
+Humidity: 26256 % RAW
+Light: 44.50 lx
+Battery: 71.20 %
+Solar Panel: 0 mV
+Carbon Monxide: 48.32 kOhm
+Nitrogen Dioxide: 64.76 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 10:05:47
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 25148 C RAW
+Humidity: 25780 % RAW
+Light: 43.00 lx
+Battery: 71.10 %
+Solar Panel: 0 mV
+Carbon Monxide: 48.50 kOhm
+Nitrogen Dioxide: 64.49 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 10:06:46
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 25112 C RAW
+Humidity: 25120 % RAW
+Light: 42.30 lx
+Battery: 72.10 %
+Solar Panel: 0 mV
+Carbon Monxide: 48.69 kOhm
+Nitrogen Dioxide: 64.72 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 10:07:46
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 25088 C RAW
+Humidity: 24984 % RAW
+Light: 40.70 lx
+Battery: 72.00 %
+Solar Panel: 0 mV
+Carbon Monxide: 48.73 kOhm
+Nitrogen Dioxide: 64.76 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 10:08:47
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 25112 C RAW
+Humidity: 25016 % RAW
+Light: 49.90 lx
+Battery: 72.00 %
+Solar Panel: 0 mV
+Carbon Monxide: 48.73 kOhm
+Nitrogen Dioxide: 64.50 kOhm
+Noise: 84 mV
+Wifi Spots: 1
+UTC: 2016-3-27 10:09:47
+*******************
+SCK Waking up...
+SCK Connected!!
+updates = 1
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 25080 C RAW
+Humidity: 24960 % RAW
+Light: 52.90 lx
+Battery: 72.50 %
+Solar Panel: 0 mV
+Carbon Monxide: 48.80 kOhm
+Nitrogen Dioxide: 64.71 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2016-3-27 10:10:47
+*******************

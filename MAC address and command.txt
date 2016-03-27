@@ -1,0 +1,27 @@
+STEP 1: Configuring the Wi-Fi settings
+Open Arduino IDE.
+Connect your SCK via USB.
+From the Tools > Board menu, choose the right USB port (generally the last one).
+From the Tools > Serial port menu, select the right board. This is Leonardo for SCK v1.0 (Goteo) or LilyPad Arduino USB for SCK v1.1 (Kickstarter).
+Open the serial monitor window in the Arduino IDE (button at the top-right of the main window).
+Set the options to “115200 baud” and “No line return” (drop-down menu at the bottom-right of the monitor window).
+Wake up the module and activate the Wi-Fi command mode by typing in the serial monitor:
+$$$
+Change to “Carriage return” option (drop-down menu at the bottom-right of the monitor window)
+Add a new SSID to memory by typing:
+set wlan ssid XXXNote: You have to replace XXX with your ssid name, filling any space with the dollar ($) character. Due to hardware limitations it can’t be longer tham 32 characters.
+Add a new phrase to memory (optional, password for WPA1 & WPA2):
+set wlan phrase XXXNote: You have to replace XXX with your phrase, filling any space with the dollar ($) character.
+Add a new key to memory (optional, password for WEP & WEP64):
+set wlan key XXX
+Add an authentication method into memory (replace XXX by “0” for Open, “1” for WEP, “2” for WPA1, “4” for WPA2, “8” for WEP64):
+set wlan auth XXX
+Add an antenna type into memory (replace XXX by “0” to use the internal antenna or “1” if you use an external antenna):
+set wlan ext_antenna XXX
+Get the MAC address of the kit by typing:
+get mac
+Copy/Save the answer for further use.
+Exit and go back to the normal operational mode by typing:
+exit
+
+MAC: 00:06:66:3a:1c:e9

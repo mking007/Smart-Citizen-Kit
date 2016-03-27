@@ -1,0 +1,159 @@
+     +--------------------------------------------------------------------+
+     ¦                • MobaXterm Personal Edition v7.3 •                 ¦
+     ¦            (X server, SSH client and GNU/Cygwin tools)             ¦
+     ¦                                                                    ¦
+     ¦ ? Your computer drives are accessible through the /drives path     ¦
+     ¦ ? Your DISPLAY is set to 192.168.0.25:0.0                          ¦
+     ¦ ? When using SSH, your remote DISPLAY is automatically forwarded   ¦
+     ¦ ? Each command status is specified by a special symbol (? or ?)    ¦
+     ¦                                                                    ¦
+     ¦ • Important:                                                       ¦
+     ¦ This is MobaXterm Personal Edition. The Professional edition       ¦
+     ¦ allows you to customize MobaXterm for your company: you can add    ¦
+     ¦ your own logo, your parameters, your welcome message and generate  ¦
+     ¦ either an MSI installation package or a portable executable.       ¦
+     ¦ We can also modify MobaXterm or develop the plugins you need.      ¦
+     ¦ For more information: http://mobaxterm.mobatek.net/versions.php    ¦
+     +--------------------------------------------------------------------+
+Launching microcom serial connection on /dev/ttyS9.
+Press Ctrl+X to exit.
+SHT21:  Temperature: 2632.40 C, Humidity: 2704.00 %
+MICS5525 current: 31.96 mA
+MICS5525 correction VH: 2999.19 mV
+MICS5525 current adjusted: 31.95 mA
+Heating...
+MICS2710 current: 25.90 mA
+MICS2710 correction VH: 2932.46 mV
+MICS2710 current adjusted: 25.90 mA
+Heating...
+MICS5525 Rs: 490.54 mV, 457343.71 Ohm
+MICS5525 Rs: 490.54 mV, 457343.71 Ohm
+MICS2710 Rs: 1361.89 mV, 55491.46 Ohm
+BH1730: 46.39 Lx
+Vbat: 4222.23 mV, Battery level: 100.00 %
+Panel = 0 mV
+CMD
+
+<4.41> get mac
+
+Mac Addr=00:06:66:3a:1c:e9
+<4.41> set wlan ssid liverpool
+AOK
+<4.41> set wlan phrase geraldine123
+AOK
+<4.41> set wlan keySHT21:  Temperature: 2634.40 C, Humidity: 2697.60 %
+ MICS5525 current: 31.95 mA
+MICS5525 correction VH: 2999.19 mV
+MICS5525 current adjusted: 31.95 mA
+Heating...
+MICS2710 current: 25.90 mA
+MICS2710 correction VH: 2932.46 mV
+MICS2710 current adjusted: 25.90 mA
+Heating...
+MICS5525 Rs: 491.72 mV, 456012.09 Ohm
+MICS5525 Rs: 491.13 mV, 456669.75 Ohm
+MICS2710 Rs: 1365.16 mV, 55226.57 Ohm
+BH1730: 46.39 Lx
+Vbat: 4222.06 mV, Battery level: 100.00 %
+Panel = 0 mV
+1
+Bad len=1
+ERR: Bad Args
+<4.41> set wlan key 1
+Bad len=1
+ERR: Bad Args
+<4.41> set wlan auth 1
+AOK
+<4.41> set wlan ext_antenna 0
+AOK
+<4.41> get mac
+
+Mac Addr=00:06:66:3a:1c:e9
+<4.41> SHT21:  Temperature: 2633.20 C, Humidity: 2694.40 %
+MICS5525 current: 31.94 mA
+MICS5525 correction VH: 2999.19 mV
+MICS5525 current adjusted: 31.94 mA
+Heating...
+MICS2710 current: 25.90 mA
+MICS2710 correction VH: 2932.46 mV
+MICS2710 current adjusted: 25.90 mA
+Heating...
+MICS5525 Rs: 490.87 mV, 456972.84 Ohm
+MICS5525 Rs: 490.74 mV, 457119.31 Ohm
+MICS2710 Rs: 1371.32 mV, 54731.17 Ohm
+BH1730: 46.39 Lx
+Vbat: 4221.15 mV, Battery level: 100.00 %
+Panel = 0 mV
+exitEXIT
+SHT21:  Temperature: 2631.20 C, Humidity: 2727.20 %
+MICS5525 current: 31.95 mA
+MICS5525 correction VH: 2999.19 mV
+MICS5525 current adjusted: 31.95 mA
+Heating...
+MICS2710 current: 25.90 mA
+MICS2710 correction VH: 2932.46 mV
+MICS2710 current adjusted: 25.90 mA
+Heating...
+MICS5525 Rs: 490.50 mV, 457393.96 Ohm
+MICS5525 Rs: 490.50 mV, 457393.96 Ohm
+MICS2710 Rs: 1374.68 mV, 54462.55 Ohm
+BH1730: 47.72 Lx
+Vbat: 4221.57 mV, Battery level: 100.00 %
+Panel = 0 mV
+SCK Waking up...
+SCK Connected!!
+updates = 1
+[{"temp":"26312","hum":"27272","light":"477","bat":"1000","panel":"0","co":"457393","no2":"54462","noise":"123","nets":"1","timestamp":"2015-7-4 21:42:51"}]
+MJK json update Sent
+mjk in here
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 26312 C RAW
+Humidity: 27272 % RAW
+Light: 47.70 lx
+Battery: 100.00 %
+Solar Panel: 0 mV
+Carbon Monxide: 457.39 kOhm
+Nitrogen Dioxide: 54.46 kOhm
+Noise: 123 mV
+Wifi Spots: 1
+UTC: 2015-7-4 21:42:51
+*******************
+SHT21:  Temperature: 2630.00 C, Humidity: 2715.60 %
+MICS5525 current: 32.03 mA
+MICS5525 correction VH: 2985.85 mV
+MICS5525 current adjusted: 31.71 mA
+Heating...
+MICS2710 current: 25.89 mA
+MICS2710 correction VH: 2932.46 mV
+MICS2710 current adjusted: 25.90 mA
+Heating...
+MICS5525 Rs: 472.32 mV, 478850.21 Ohm
+MICS5525 Rs: 472.32 mV, 478850.21 Ohm
+MICS2710 Rs: 1368.42 mV, 54963.71 Ohm
+BH1730: 46.39 Lx
+Vbat: 4227.12 mV, Battery level: 100.00 %
+Panel = 0 mV
+SCK Waking up...
+SCK Connected!!
+updates = 1
+[{"temp":"26300","hum":"27156","light":"463","bat":"1000","panel":"0","co":"478850","no2":"54963","noise":"0","nets":"1","timestamp":"2015-7-4 21:43:16"}]
+MJK json update Sent
+mjk in here
+Posted to Server!
+Old connection active. Closing...
+SCK Sleeping
+*******************
+Temperature: 26300 C RAW
+Humidity: 27156 % RAW
+Light: 46.30 lx
+Battery: 100.00 %
+Solar Panel: 0 mV
+Carbon Monxide: 478.85 kOhm
+Nitrogen Dioxide: 54.96 kOhm
+Noise: 0 mV
+Wifi Spots: 1
+UTC: 2015-7-4 21:43:16
+*******************
