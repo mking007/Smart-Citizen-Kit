@@ -36,7 +36,7 @@ SENSOR Contants and Defaults
 
 #define USBEnabled      true 
 #define autoUpdateWiFly true
-#define debugAmbient    true /* MJK */
+#define debugAmbient    false
 
 SCKBase base_;
 SCKServer server_;
@@ -773,7 +773,7 @@ void SCKAmbient::ini()
           {
             value[8] = base_.scan();  //Wifi Nets
             base_.RTCtime(time);
-          } 
+          }
    }
   
 boolean SCKAmbient::debug_state()

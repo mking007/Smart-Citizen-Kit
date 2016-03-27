@@ -17,7 +17,7 @@
 #include <Wire.h>
 #include <EEPROM.h>
 
-#define debugBASE true /* MJK */
+#define debugBASE false
 
 
 

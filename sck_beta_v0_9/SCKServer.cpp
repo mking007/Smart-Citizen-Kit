@@ -12,7 +12,7 @@
 #include <Wire.h>
 #include <EEPROM.h>
 
-#define debugServer   true /* MJK */
+#define debugServer   false
 
 SCKBase base__;
 SCKServer server__;
@@ -262,9 +262,7 @@ void SCKServer::send(boolean sleep, boolean *wait_moment, long *value, char *tim
               }
             connect();
             json_update(num_post, value, time, true);
-            Serial.println("MJK json update Sent"); /*MJK */
             #if debugEnabled
-                  Serial.println("mjk in here"); /*MJK */
                   if (!ambient__.debug_state()) Serial.println(F("Posted to Server!")); 
             #endif
             
