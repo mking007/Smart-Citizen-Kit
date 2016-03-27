@@ -11,8 +11,10 @@
 #include "SCKAmbient.h"
 #include <Wire.h>
 #include <EEPROM.h>
+//#include <Time.h>  //MJK
 
-#define debugServer   false
+
+#define debugServer   true
 
 SCKBase base__;
 SCKServer server__;
@@ -105,6 +107,12 @@ void SCKServer::json_update(uint16_t updates, long *value, char *time, boolean i
         {
           Serial1.print(SERVER[i]);
           Serial1.print(value[i]); 
+//          Serial.print(F("MJK: Server[i] - i:"));
+//          Serial.println(i);
+//          Serial.print(F("MJK: Server[i]:"));
+//          Serial.println(SERVER[i]);
+//          Serial.print(F("MJK: value[i]"));
+//          Serial.println(value[i]);
         }  
       Serial1.print(SERVER[i]);  
       Serial1.print(time);
@@ -128,6 +136,24 @@ void SCKServer::json_update(uint16_t updates, long *value, char *time, boolean i
       #if debugServer
          Serial.println(F("]"));
       #endif
+      //MJK now send emoncms data
+      Serial.print(EMONCMSPOST);
+      Serial.print(F("[["));
+      Serial.print(1435838641.17); //time
+      Serial.print(F(",33,")); //node hard coded for now
+      Serial.print(value[6]); //NO2 hard coded
+      Serial.print(F("]]&sentat=")); //MJK
+      Serial.print(1435838641.17); //MJK
+      Serial.println(); //MJK  
+      
+      Serial1.print(EMONCMSPOST);
+      Serial1.print(F("[["));
+      Serial1.print(1435838641.17); //time
+      Serial1.print(F(",33,")); //node hard coded for now
+      Serial1.print(value[6]); //NO2 hard coded
+      Serial1.print(F("]]&sentat=")); //MJK
+      Serial1.print(1435838641.17); //MJK
+       Serial1.println(); //MJK  
 }  
 
 void SCKServer::addFIFO(long *value, char *time)

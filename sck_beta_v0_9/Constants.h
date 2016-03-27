@@ -53,6 +53,8 @@ static char* antennaExt[networks]  = {
 #define WIFLY_LATEST_VERSION 475
 #define DEFAULT_WIFLY_FIRMWARE "ftp update wifly3-475.img"
 #define DEFAULT_WIFLY_FTP_UPDATE "set ftp address 198.175.253.161"
+#define EMONCMSPOST "http://innovys.co.uk/emoncms/input/bulk.json?apikey=KEYHERE&data=" //MJK
+
 
 /* 
 
@@ -281,3 +283,23 @@ static char* UNITS[9]={
                     " mV",
                     "",
                   };  
+
+//MJK changes for emoncms publication
+
+
+
+// Data JSON structure                  
+static char* EMONCMSDATA[11]={
+                  "{\"temp\":\"",
+                  "\",\"hum\":\"", 
+                  "\",\"light\":\"",
+                  "\",\"bat\":\"",
+                  "\",\"panel\":\"",
+                  "\",\"co\":\"", 
+                  "\",\"no2\":\"", 
+                  "\",\"noise\":\"", 
+                  "\",\"nets\":\"", 
+                  "\",\"timestamp\":\"", 
+                  "\"}"
+                  };
+
